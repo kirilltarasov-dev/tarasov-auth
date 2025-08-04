@@ -35,6 +35,6 @@ Built with FastAPI, PostgreSQL, and JWT. Production-ready, containerized, and de
 git clone https://github.com/yourname/tarasovAuth && cd tarasovAuth
 
 # Copy env and run locally
-cp .env.sample .env
+cp .env.example .env
 docker-compose up --build
 
